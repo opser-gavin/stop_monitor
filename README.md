@@ -8,3 +8,8 @@
 Django >= 2.0.0
 
 Python >= 3.6.0
+
+# 钉钉报警脚本
+other/钉钉报警脚本/send_dingding_post.py
+
+脚本中url为django项目url
